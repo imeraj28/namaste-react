@@ -1,0 +1,25 @@
+:root {
+    --sm: 4px;
+    --md: 8px;
+    --lg: 16px;
+    --xlg: 24px;
+}
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: wheat;
+}
+
+body {
+    background-color: #202020;
+}

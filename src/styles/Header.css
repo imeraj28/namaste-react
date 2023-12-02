@@ -1,0 +1,10 @@
+.navigation {
+    padding: 0 var(--lg);
+    background-color:cadetblue
+}
+
+.logo {
+    width: 50px;
+    margin: var(--lg) 0;
+}
+
